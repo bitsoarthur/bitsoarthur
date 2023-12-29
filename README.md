@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @bitsoarthur
+- 👀 I’m interested in ...
+- OPSIS
+https://rufus.ie/downloads/
+https://archlinux.org/download/
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+bitsoarthur/bitsoarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
