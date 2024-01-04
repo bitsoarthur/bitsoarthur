@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @bitsoarthur
+olsteen on telegram
 - 👀 I’m interested in ...
 - OPSIS
+- software
+
 https://rufus.ie/downloads/
 https://archlinux.org/download/
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working ...
+- telegram bots
+ubuntu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How 
 Arch Linux
