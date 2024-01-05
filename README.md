@@ -10,6 +10,9 @@ https://archlinux.org/download/
 - telegram bots
 ubuntu
 - 💞️ I’m looking to collaborate on ...
+- bitso
+- 3LMtpS9vm1WLGXdTQ9eU9q15tChjf1z9qQ
+- btc
 - 📫 How 
 Arch Linux
 
